@@ -18,5 +18,6 @@ print(f"Company name and type : {company} {type(company)},\nCompany years and ty
 
 '''//to print this
 print(Hello, World. )
-input= (Welcome to 30 Days of Code!)'''
-print("Hello world.", end="\n" )
+input_text= (Welcome to 30 Days of Code!)'''
+input_text=input()
+print("Hello world.\n",input_text  )

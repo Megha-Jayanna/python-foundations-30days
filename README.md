@@ -1,63 +1,62 @@
+
 # python-foundations-30days
-This repository documents 30‑day Python challenge — exploring core concepts, problem-solving, hands‑on practice and practical coding
+
+This repository documents a **30‑day Python challenge** — designed to build core concepts, problem‑solving ability, and consistent coding practice.
 
 ---
 
-## Goals
-- Build strong Python fundamentals
-- Practice coding every single day
-- Work on small but meaningful exercises
-- Develop problem‑solving and logical thinking
-- Create a habit of learning consistently
+## 🎯 Goals
+- Build strong Python fundamentals  
+- Practice coding every day  
+- Work on small but meaningful exercises  
+- Develop problem‑solving and logical thinking  
+- Build consistency and discipline  
 
 ---
 
-## 📅 Daily Progress Tracker
+## 📅 Daily Progress Tracker  
 
-| Day | Topic / Activity | Code / Notes |
-|-----|------------------|--------------|
-| 1   | Introduction to Python, Variables, Data Types | |
-| 2   | Strings & Numbers | |
-| 3   | Arithmetic & Conditional Statements | |
-| 4   | Lists, Tuples, Sets, Dictionaries | |
-| 5   | File Handling | |
-| 6   | Loops (for / while) | |
-| 7   | Functions | |
-| 8   | Modules & Packages | |
-| 9   | Error Handling | |
-| 10  | Comprehensions | |
-| 11  | Working with Dates & Time | |
-| 12  | OOP (Classes, Objects) | |
-| 13  | OOP (Inheritance, Polymorphism) | |
-| 14  | Working with JSON | |
-| 15  | Working with APIs | |
-| 16  | Virtual Environments & pip | |
-| 17  | Regular Expressions | |
-| 18  | Mini Projects – File Tools | |
-| 19  | Mini Projects – Logic Tools | |
-| 20  | Data Manipulation (CSV, Pandas intro) | |
-| 21  | Plotting with Matplotlib | |
-| 22  | Automation with Python | |
-| 23  | Web Scraping | |
-| 24  | Databases (SQLite) | |
-| 25  | FastAPI / Flask Intro | |
-| 26  | Data Structures & Algorithms Basics | |
-| 27  | Intermediate Project | |
-| 28  | Debugging & Code Optimization | |
-| 29  | Capstone Project – Part 1 | |
-| 30  | Capstone Project – Part 2 | |
+| Day | Topic / Activity |
+|-----|------------------|
+| 1  | Introduction to Python, Variables, Data Types |
+| 2  | Strings & Numbers |
+| 3  | Arithmetic Operations & Conditional Statements |
+| 4  | Lists, Tuples, Sets, Dictionaries |
+| 5  | Files, Assignments, Expressions |
+| 6  | Loops (for / while), `if` & `match` statements |
+| 7  | Functions, Generators, Scopes, Arguments |
+| 8  | Iterations, Comprehensions, Comments, Docstrings |
+| 9  | Modules, Packages, Intro to OOP |
+| 10 | Classes & Objects |
+| 11 | Exceptions, Working with JSON |
+| 12 | Working with APIs (HTTP, Requests) |
+| 13 | Error Handling in Practice |
+| 14 | Regular Expressions |
+| 15 | Functional Tools: `filter`, `map`, `lambda` |
+| 16 | Iterators, Generators, `itertools` |
+| 17 | Basic Project Structuring, Virtual Environments (optional) |
+| 18 | Debugging, Logging & Simple Testing |
+| 19 | Useful Standard Libraries (datetime, os) |
+| 20 | Data Manipulation: CSV & Pandas Basics |
+| 21 | Data Visualization using Matplotlib |
+| 22 | Automation with Python (Beginner Level) |
+| 23 | Web Scraping (Requests + BeautifulSoup) |
+| 24 | Databases: SQLite Basics |
+| 25 | Web Apps: FastAPI / Flask Intro |
+| 26 | DS & Algo — Beginner Concepts |
+| 27 | Mini Project Day — CLI / Utility Script |
+| 28 | Mini Project Day — Data App |
+| 29 | Capstone Project — Day 1 |
+| 30 | Capstone Project — Day 2 |
 
 ---
 
 ## 🚀 Capstone Project Ideas
-- To‑Do CLI App
-- Weather App using API
-- PDF Automation Tool
-- Expense Tracker
-- Notes Manager
-- Simple REST API
+- **Expense Tracker**  
+- **Notes Manager / Daily Routine Tracker**  
+- **Simple REST API (Tasks, Bookmarks)**  
+- **Mini Data Analysis Tool**
 
 ---
 
-Happy Coding! ✨
-
+## ✨ Happy Coding!
